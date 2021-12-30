@@ -1,0 +1,3 @@
+# Donut Diary
+
+The Donut Diary site was built using a customized child theme. It includes a custom Gutenberg block.
