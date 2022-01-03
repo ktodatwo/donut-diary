@@ -1,5 +1,6 @@
 <?php
 
+
 function donuts_on_blog_page( $query ) {
     if ( $query->is_home() && $query->is_main_query() ) {
         $query->set( 'post_type', array( 'post', 'donut' ) );
