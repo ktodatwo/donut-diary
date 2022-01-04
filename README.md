@@ -1,6 +1,6 @@
 # Donut Diary
 
-Donut Diary is a donut review site built using customized WordPress child them that features a custom Gutenberg block.
+Donut Diary is a donut review site built using customized WordPress child theme that features a custom Gutenberg block.
 
 ## Child Theme Customization
 Donut Diary WordPress theme was built by customizing the Twenty-Twenty-One theme. To round out the child theme, I added a custom post type - Donut and added logic to the child's function.php file to display Donut post types and regular Post types together.
