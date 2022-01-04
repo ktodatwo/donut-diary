@@ -7,7 +7,7 @@ Donut Diary WordPress theme was built by customizing the Twenty-Twenty-One theme
 
 
 ## Custom Gutenberg Block
-I configured my build environment with Webpack, Babel, and React. The custom block input the text field areas to build a donut review. Then I enqueue the files and register the custom block.
+I configured my build environment with Webpack, Babel, and React. The custom block input the text field areas to build a donut review.
 
 <img src="https://github.com/ktodatwo/ktodatwo_public/blob/main/donut-diary-test.gif" alt="Donut Diary block gif" title="Donut Diary block gif" width="500"/>
 
